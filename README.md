@@ -13,7 +13,7 @@ print("Wsp!👋")
 ## Preview:
 
 <p align="center">
-  <img height="450" src="https://i.ibb.co/tnsddNt/0-ECBF256-5655-45-E8-9-D65-FE05-A2061764.png" alt="Preview">
+  <img height="450" src="https://i.ibb.co/sJN2Y4MW/B6-D219-BD-61-EC-4-A66-8-C29-D68-DEA61-E88-B.png" alt="Preview">
 </p>
 
 ## Minhas estatísticas:
